@@ -65,7 +65,7 @@ public class LoginRegistrationSystemTest {
             
             // Initialize the system under test
             loginSystem = new LoginRegistrationSystem() {
-                // Override the connection method to use our test database
+                // Overriding the connection method to use our test database
                 protected void connectToDatabase() {
                     try {
                         Class.forName("com.mysql.cj.jdbc.Driver");
@@ -161,7 +161,7 @@ public class LoginRegistrationSystemTest {
     
     @Test
     public void testMain() {
-        // This is a simple test to ensure the main method doesn't throw exceptions
+        
         try {
             
             String[] args = new String[0];
