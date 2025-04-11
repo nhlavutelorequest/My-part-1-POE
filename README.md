@@ -34,10 +34,10 @@ Horton, I. (2018) Beginning Java, 5th edn, Apress.
  
 Urma, R.G., Fusco, M. and Myers, A. (2019) Java 12: The Complete Reference, 12th edn, McGraw-Hill Education.
 
-Oracle Corporation (2022) Java Documentation, [online] Available at: <(https://docs.oracle.com/javase/tutorial/)> [Accessed 10 April 2022].
+Oracle Corporation (2022) Java Documentation, [online] Available at: (https://docs.oracle.com/javase/tutorial/)[Accessed 10 April 2022].
 
-GeeksforGeeks (2022) Java Programming Language, [online] Available at: <(https://en.wikipedia.org/wiki/Java_(programming_language))> [Accessed 12 April 2022].
+GeeksforGeeks (2022) Java Programming Language, [online] Available at: (https://en.wikipedia.org/wiki/Java_(programming_language) [Accessed 12 April 2022].
 
- Tutorials Point (2022) Java Tutorial, [online] Available at: <(https://www.tutorialspoint.com/java/index.htm)> [Accessed 9 April 2022].
+ Tutorials Point (2022) Java Tutorial, [online] Available at: (https://www.tutorialspoint.com/java/index.htm) [Accessed 9 April 2022].
 
  
